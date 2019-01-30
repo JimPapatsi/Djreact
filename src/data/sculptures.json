@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id":1,
+            "name": "1o Γλυπτό",
+            "description":"Liga pragmata gia to prwto agalmataki",
+            "keywords":[
+                "agalma" , "aoua ", "kserwegw"
+            ],
+            "image":"1-sculpture.jpg",
+            "price": 100
+        },
+        {
+            "id":2,
+            "name":"Κουναμούτας",
+            "description":"Liga pragmata gia to deutero agalmataki",
+            "keywords":["agalma" , "aoua ", "kserwegw"],
+            "image":"2-sculpture.jpg",
+            "price": 50
+        }
+    ]
+}

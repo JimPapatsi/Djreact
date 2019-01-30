@@ -1,0 +1,22 @@
+{
+    "drawings": [
+        {
+            "id":1,
+            "name": "Aoua1",
+            "description":"Liga pragmata gia to etsi",
+            "keywords":[
+                "ploio" , "aoua ", "kserwegw"
+            ],
+            "image":"1-drawing.jpg",
+            "price": 60
+        },
+        {
+            "id":2,
+            "name":"Aoua2",
+            "description":"Skakiera",
+            "keywords":["agalma" , "picaso", "kserwegw"],
+            "image":"2-drawing.jpg",
+            "price": 50
+        }
+    ]
+}

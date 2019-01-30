@@ -1,0 +1,22 @@
+{
+    "paintings": [
+        {
+            "id":1,
+            "name": "Winter",
+            "description":"Liga pragmata gia to koritsaki",
+            "keywords":[
+                "ploio" , "aoua ", "kserwegw"
+            ],
+            "image":"1-painting.jpg",
+            "price": 60
+        },
+        {
+            "id":2,
+            "name":"Autumn",
+            "description":"Kleveis erga texnhs",
+            "keywords":["agalma" , "picaso", "kserwegw"],
+            "image":"2-painting.jpg",
+            "price": 50
+        }
+    ]
+}
